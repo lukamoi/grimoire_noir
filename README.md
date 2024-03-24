@@ -1,2 +1,2 @@
-# grimoire_noir
-A dark/light text-heavy web design
+# Grimoir Noir
+A minimal, dark/light, text-heavy web design.
